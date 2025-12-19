@@ -1,5 +1,5 @@
 Name:Chef
-Desc:
+Desc:The Chef wakes up every night and send a healing meal to another player. The player gets a choice to eat it or not. If they do, they are protected for the rest of the night but can not receive food again. The Chef has a waiter on each team. The Chef dies if all their waiters are dead. Waiters are not aware that they are waiters. The Chef knows who the waiters are but not their roles.
 Card:
 de_Name:Koch
 de_Desc:

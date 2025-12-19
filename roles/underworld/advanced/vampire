@@ -1,5 +1,5 @@
 Name:Vampire
-Desc:
+Desc:Every night when the Vampire wakes up, they may choose a player to demonize. If a demonized player gets attacked at night, they will instead turn into an undead player and join the Vampire's team. The Vampire wins when every player is either dead or undead.
 Card:
 de_Name:Vampir
 de_Desc:

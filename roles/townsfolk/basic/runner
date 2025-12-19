@@ -1,5 +1,5 @@
 Name:Runner
-Desc:
+Desc:The first time the Runner gets attacked by wolves, they will run away and won't die. If the runner is however attacked by someone that's not a wolf, they will die as usual.
 Card:
 de_Name:Läufer
 de_Desc:

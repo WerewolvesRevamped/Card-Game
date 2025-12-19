@@ -1,5 +1,5 @@
 Name:Priest
-Desc:
+Desc:When the Priest wakes up, they may decide to sprinkle holy water on another player. If that player is part of the werewolf team, the player will die. If the player is instead part of the townsfolk team, the Priest themselves will die. If the player is neither part of the werewolf or townsfolk team, nothing will happen.
 Card:
 de_Name:Priester
 de_Desc:

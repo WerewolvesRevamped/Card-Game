@@ -1,5 +1,5 @@
 Name:Executioner
-Desc:
+Desc:When the Executioner gets lynched for the first time, they will not die. Instead, they may point at another player that will die instead.
 Card:
 de_Name:Henker
 de_Desc:

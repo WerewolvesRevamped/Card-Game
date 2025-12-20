@@ -1,6 +1,6 @@
 Name:Alpha Werewolf
-Desc:The Alpha Werewolf wakes up with the other werewolves and chooses a target to attack with them. At night, the Alpha Werewolf may decide to give the wolves another attack. Any wolves with abilities at night will then not be woken up that night. This can only be done once. Alternatively, the Alpha Werewolf may decide that no role may investigate another player's role or nature. This can also only be done once.
-Card:The Alpha Werewolf wakes up with the other werewolves and chooses a target to attack with them. At night, the Alpha Werewolf may decide to give the wolves another attack. Any wolves with abilities at night will then not be woken up that night. This can only be done once. Alternatively, the Alpha Werewolf may decide that no role may investigate another player's role or nature. This can also only be done once.
+Desc:The Alpha Werewolf wakes up with the other werewolves and chooses a target to attack with them. The Alpha Werewolf is woken up at the start of the night and may choose to use one, both, or none of their powers. Each power can only be used once. They may use their striking howl to give the werewolves a second attack. Any wolves with abilities at night will then not be woken up individually that night. Alternatively, the Alpha Werewolf may use their masking howl to decide that no role may investigate another player's role or nature. The Alpha Werewolf may use thumbs up and down to indicate which of their howls they would like to use.
+Card:At night, the Alpha Werewolf may once give the werewolves another attack, however other werewolves will then not be woken up individually. Alternatively, they may once stop all roles from investigating for the night.
 de_Name:Leitwolf
 de_Desc:
 de_Card:

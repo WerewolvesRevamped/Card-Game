@@ -1,6 +1,6 @@
 Name:Stalker
-Desc:When they wake up, the Stalker may select a player to assign 2 invisible votes against. After the lynch votes are counted the next day, that player will have 2 additional votes against them.
-Card:
+Desc:
+Card:When they wake up, the Stalker may select a player to assign 2 invisible votes against. After the lynch votes are counted the next day, that player will have 2 additional votes against them.
 de_Name:Stalker
 de_Desc:
 de_Card:

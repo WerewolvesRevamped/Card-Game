@@ -1,6 +1,6 @@
 Name:Witch
 Desc:The Witch has created one potion of death and one potion of life. When the Witch wakes up at night, they will be shown who the werewolves have attacked and get a chance to save them using their potion of life. The Witch may also use their potion of death to kill a player. The potions can be used in the same night, on different nights or not at all, but each potion can only be used once. The Witch may indicate with a thumbs up (life) or thumbs down (poison), which potion they'd like to use.
-Card:Each night, the Witch may either use one, both or none of their potions. They will see the werewolves' target, and may save them with their Potion of Life. They may kill a player with the Potion of Death. Potions can only be used once.
+Card:Each night, the Witch may use one, both or none of their potions. They will see the werewolves' target, and may once save them with their Potion of Life. They may once kill a player with the Potion of Death.
 de_Name:Hexe
 de_Desc:
 de_Card:

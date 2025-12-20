@@ -1,6 +1,6 @@
 Name:Mayor
-Desc:If there's ever a tie in the lynch or election vote, the Mayor will be the one to decide. The Mayor is elected during the day if there is no living Mayor.
-Card:If there's ever a tie in a vote, the Mayor will be the one to decide.
+Desc:If there's ever a tie in the lynch or election vote, the Mayor will be the one to decide, as their vote counts as two. The Mayor is elected during the day if there is no living Mayor.
+Card:If there's ever a tie in a vote, the Mayor will be the one to decide, as their vote counts as two.
 de_Name:Bürgermeister
 de_Desc:
 de_Card:

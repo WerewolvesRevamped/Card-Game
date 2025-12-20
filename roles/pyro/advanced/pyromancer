@@ -1,6 +1,6 @@
 Name:Pyromancer
-Desc:When the Pyromancer wakes up, they may decide to powder a player or ignite. Igniting attacks all currently powdered players. The Pyromancer wins only when all other players are dead.
-Card:
+Desc:
+Card:When the Pyromancer wakes up, they may decide to powder a player or ignite. Igniting attacks all currently powdered players. The Pyromancer wins only when all other players are dead.
 de_Name:Pyromant
 de_Desc:
 de_Card:

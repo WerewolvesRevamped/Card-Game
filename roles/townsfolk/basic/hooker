@@ -1,6 +1,6 @@
 Name:Hooker
-Desc:During the night, the Hooker wakes up and chooses another player to spend the night with. Attempts to kill the Hooker will fail, but any attempt to kill the player they're staying with will result in the Hooker dying.
-Card:During the night, the Hooker wakes up and chooses another player to spend the night with. Attempts to kill the Hooker will fail, but any attempt to kill the player they're staying with will result in the Hooker dying.
+Desc:During the night, the Hooker wakes up and chooses another player to spend the night with. Attempts to kill the Hooker will fail, but any attempt to kill the player they're staying with will result in the Hooker dying as well.
+Card:When the Hooker wakes up, they may choose another player. Attempts to kill the Hooker will fail, but attempts to kill the player they're staying with will result in the Hooker's death. They may not choose the same player twice in a row.
 de_Name:Verführerin
 de_Desc:
 de_Card:

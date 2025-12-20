@@ -1,6 +1,6 @@
 Name:Guardian
-Desc:The Guardian may choose someone to protect each night.
-Card:The Guardian may choose someone to protect each night.
+Desc:Each night, the Guardian may choose someone to protect, before the werewolves choose their target, but they may not protect the same player twice in a row. If the player they chose to protect is attacked, they will survive the attack.
+Card:The Guardian may choose someone to protect each night, but they may not protect the same player twice in a row.
 de_Name:Wächter
 de_Desc:
 de_Card:

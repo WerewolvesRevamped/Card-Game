@@ -1,6 +1,6 @@
 Name:Devil
-Desc:When they wake up, the Devil may choose a player to send their wager. That player may then choose to kill someone or ignore the wager. If they kill someone, they become soulless. The Devil wins when every player is either dead or soulless.
-Card:When they wake up, the Devil may choose a player to send their wager. That player may then choose to kill someone or ignore the wager. If they kill someone, they become soulless. The Devil wins when every player is either dead or soulless.
+Desc:When they wake up, the Devil may choose a player to offer a deal to. Once they go back to sleep, the Host touches the selected player on their shoulder, and that player may then choose to kill someone or ignore the deal. If they kill someone, they become soulless. If they choose to kill the Devil, nothing happens, but they are not informed. The Devil wins when every player is either dead or soulless.
+Card:Each night, the Devil may choose a player to offer a deal to. That player may then either ignore the deal or choose to sell their soul to kill someone. The Devil wins when every player is either dead or soulless.
 de_Name:Teufel
 de_Desc:
 de_Card:

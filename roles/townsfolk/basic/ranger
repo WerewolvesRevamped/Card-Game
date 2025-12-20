@@ -1,6 +1,6 @@
 Name:Ranger
 Desc:When a Ranger dies, they must choose another player to reveal their role. Both the Ranger's card and the revealed player's card are always shown to the rest of the town.
-Card:
+Card:When a Ranger dies, they must choose another player to reveal their role. Both the Ranger's card and the revealed player's card are always shown to the rest of the town.
 de_Name:Förster
 de_Desc:
 de_Card:

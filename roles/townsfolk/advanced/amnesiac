@@ -1,0 +1,6 @@
+Name:Amnesiac
+Desc:When the Amnesiac is in play, three additional townsfolk roles are revealed to everyone. In the second night, the Amnesiac is assigned one of these roles and the other roles are hidden from the rest of the players. If their new role has a night ability, they will be able to use it starting in this night. The Host has to be careful to prompt the Amnesiac generically, so the other players cannot tell which role the Amnesiac has turned into - they may even have to prompt the Amnesiac for an action even if they have none. This would be the case if some of the role options have abilities and others do not.
+Card:The Amnesiac acts as a normal citizen until the second night, where they are assigned one of three revealed roles on the townsfolk team that they will be for the rest of the game.
+de_Name:Amnestiker
+de_Desc:
+de_Card:

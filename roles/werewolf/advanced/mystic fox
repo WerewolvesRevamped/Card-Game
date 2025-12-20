@@ -1,6 +1,6 @@
 Name:Mystic Fox
-Desc:The Mystic Fox is part of the werewolf team but does not wake up with the werewolves. The Mystic Fox may wake up every night to check a player's card, but will not see the card. The werewolves will be made aware which player the Mystic Fox has checked and see that player's card. Once per game, the Mystic Fox may decide to become a werewolf permanently.
-Card:The Mystic Fox is part of the werewolf team but does not wake up with the werewolves. The Mystic Fox may wake up every night to check a player's card, but will not see the card. The werewolves will be made aware which player the Mystic Fox has checked and see that player's card. Once per game, the Mystic Fox may decide to become a werewolf permanently.
+Desc:The Mystic Fox is part of the werewolf team, but does not wake up with the werewolves. Instead, the Mystic Fox may choose to check a player's card each night, but will not see the card.  The werewolves will be made aware which player the Mystic Fox has checked and see that player's card. Once per game, the Mystic Fox may choose to change into a werewolf permanently.
+Card:The Mystic Fox does not wake up with the other werewolves. Instead, they may choose a player each night. The werewolves will be shown that player's card. They may also choose to change into a werewolf permanently.
 de_Name:Spähfuchs
 de_Desc:
 de_Card:

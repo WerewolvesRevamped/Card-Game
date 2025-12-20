@@ -1,5 +1,5 @@
 Name:Town Crier
-Desc:When the Town Crier wakes up, they may decide to check another player. If that player is not part of the townsfolk team, the Town Crier will die that night. The Town Crier may only check another player once in the entire game.
+Desc:When the Town Crier wakes up, they may decide to check another player. If that player is not part of the townsfolk team, the Town Crier will die that night. The Town Crier may only check another player once in the entire game. The Host may need to keep prompting the Town Crier even after their action has been used to hide this information from the other players.
 Card:When the Town Crier wakes up, they may decide to check another player. If that player is not part of the townsfolk team, the Town Crier will die that night. The Town Crier may only check another player once in the entire game.
 de_Name:Stadtausrufer
 de_Desc:

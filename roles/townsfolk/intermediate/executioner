@@ -1,6 +1,6 @@
 Name:Executioner
-Desc:When the Executioner gets lynched for the first time, they will not die. Instead, they may point at another player that will die instead.
-Card:When the Executioner gets lynched for the first time, they will not die. Instead, they may point at another player that will die instead.
+Desc:When the Executioner gets lynched for the first time, they will not die. Instead, their card is revealed and they may point at another player who will die instead. The Executioner may choose nobody, in which case nobody is lynched in their place.
+Card:When the Executioner gets lynched for the first time, they will not die. Instead, their card is revealed and they may point at another player who will die instead.
 de_Name:Henker
 de_Desc:
 de_Card:

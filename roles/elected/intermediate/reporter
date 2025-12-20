@@ -1,0 +1,6 @@
+Name:Reporter
+Desc:At the start of the night, the Reporter awakens and will see the cards of all players that have died since they have last seen cards. The Reporter may additionally point at a dead player to view their card again, if they have forgotten. The Reporter is elected during the day if there is a living Mayor.
+Card:The Reporter can see the cards of all dead players, when the rest of the town can not.
+de_Name:Reporter
+de_Desc:
+de_Card:

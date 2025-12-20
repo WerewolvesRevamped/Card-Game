@@ -1,6 +1,6 @@
 Name:Apprentice
-Desc:The Apprentice takes the role of the first Seer, Aura Teller, Huntsman or Oracle to die. The cards will not be swapped, but the Apprentice will be woken up the next night instead.
-Card:The Apprentice takes the role of the first Seer, Aura Teller, Huntsman or Oracle to die. The cards will not be swapped, but the Apprentice will be woken up the next night instead.
+Desc:The Apprentice takes the role of the first Seer, Aura Teller, Huntsman or Oracle to die. In games where the cards are revealed on death, the cards will not be swapped, but the Apprentice will be woken up the next night instead. In games where cards are not revealed on death, the Apprentice must be woken every night after the first night - they will be given a generic prompt and the Host will shake their head to signal that they cannot use their powers yet. Once one of the specified roles dies, the Host will swap the Apprentice's card with that of the dead player. Both cards will remain hidden, but the Apprentice will be shown their new card in the next night so they know their new role.
+Card:The Apprentice takes the ability of the first Seer, Aura Teller, Huntsman or Oracle to die. 
 de_Name:Lehrling
 de_Desc:
 de_Card:

@@ -1,5 +1,5 @@
 Name:Guardian
-Desc:Each night, the Guardian may choose someone to protect, before the werewolves choose their target, but they may not protect the same player twice in a row. If the player they chose to protect is attacked, they will survive the attack. The Guardian is elected during the day if there is a living Mayor and a living Reporter.
+Desc:Each night, the Guardian may choose someone to protect, before the werewolves choose their target, but they may not protect the same player twice in a row. If the player they chose to protect is attacked, they will survive the attack. Before the game, it should be decided if a Guardian will be in play - the Guardian can only be in play if both the Mayor and the Reporter are in play. If there is a Guardian, they are elected during the day if there already is a living Mayor and a living Reporter.
 Card:The Guardian may choose someone to protect each night, but they may not protect the same player twice in a row.
 de_Name:Wächter
 de_Desc:

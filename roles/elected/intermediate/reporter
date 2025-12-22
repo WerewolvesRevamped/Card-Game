@@ -1,6 +1,6 @@
 Name:Reporter
-Desc:At the start of the night, the Reporter awakens and will see the cards of all players that have died since they have last seen cards. The Reporter may additionally point at a dead player to view their card again, if they have forgotten. The Reporter is elected during the day if there is a living Mayor.
-Card:The Reporter can see the cards of all dead players, when the rest of the town can not.
+Desc:At the start of the night, the Reporter awakens and will see the cards of all players that have died since they have last seen cards. The Reporter may additionally point at a dead player to view their card again, if they have forgotten. Before the game, it should be decided whether to play with a Reporter or with flips. When playing with flips, players will flip their card when they die, revealing their role. When playing with the Reporter, cards remain hidden on death. The Reporter may only be in play, if there is also a Mayor in play. The Reporter is elected during the day if there already is a living Mayor. The Reporter cannot be killed in the night immediately after being elected.
+Card:The Reporter can see the cards of all dead players, when the rest of the town can not. The Reporter cannot be killed in the night immediately after being elected.
 de_Name:Reporter
 de_Desc:
 de_Card:

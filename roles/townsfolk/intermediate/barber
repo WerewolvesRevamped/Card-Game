@@ -1,5 +1,5 @@
 Name:Barber
-Desc:Once per game, after the discussion is over and before the voting starts, the Barber may decide to reveal themselves by showing their card to the other players and attacking another player directly. They may only do so once the Host has closed the discussion and must do so before the voting has started. The Host may also choose to specifically prompt for the Barber action.
+Desc:Once per game, after the discussion is over and before the voting starts, the Barber may decide to reveal themselves by showing their card to the other players and attacking another player directly. They may only do so once the Host has closed the discussion and must do so before the voting has started. The Host may also choose to specifically prompt for the Barber action. After the Barber has attacked, additional discussion time is given to the villagers.
 Card:Once per game, after the discussion is over and before the voting starts, the Barber may decide to reveal themselves by showing their card to the other players and attacking another player directly.
 de_Name:Friseur
 de_Desc:

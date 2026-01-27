@@ -13,14 +13,14 @@ The full order of actions and events throughout a night.
 • For advanced players, town sided groups wake in the following order: <TOWN>Bakers</TOWN>, <TOWN>Butchers</TOWN>
 • <TOWN>Stalker</TOWN> wakes and chooses a target
 • <TOWN>Fletcher</TOWN> wakes and may revoke the customer's power
-• <WOLF>Alpha Werewolf</WOLF> wakes and may use a cry
+• <WOLF>Alpha Werewolf</WOLF> wakes and may use a howl
 • <UW>Vampire</UW> wakes and chooses a player to demonize, the <UW>Undead</UW> wake with the vampire
 • <FLUTE>Flute Player</FLUTE> wakes and enchants, afterward all <EXTRA>Enchanted</EXTRA> players wake
 • <HELL>Devil</HELL> wakes and chooses a player, afterward the <EXTRA>Deal Recipient</EXTRA> wakes
 • Investigative roles wake in the following order: <TOWN>Oracle</TOWN>, <TOWN>Aura Teller</TOWN>, <TOWN>Huntsman</TOWN>, <TOWN>Seer</TOWN>, <TOWN>Apprentice</TOWN>, <TOWN>Town Crier</TOWN>, <WOLF>Warlock</WOLF>, <WOLF>Mystic Fox</WOLF>
 • Protective roles wake in the following order: <TOWN>Cleric</TOWN>, <TOWN>Hooker</TOWN>, <WOLF>Gallant Fox</WOLF>, <ELECTED>Guardian</ELECTED>
 • Killing roles wake in the following order: <TOWN>Assassin</TOWN>, <TOWN>Priest</TOWN>, <PYRO>Pyromancer</PYRO>
-• The <WOLF>Werewolves</WOLF> wake together (and receive fox info if applicable). They choose somebody to attack. If a wolf cub has died they choose a second time.
+• The <WOLF>Werewolves</WOLF> wake together (and receive fox info if applicable). They choose somebody to attack. If a wolf cub has died or if a striking howl has been used they choose a second time.
 • <TOWN>Witch</TOWN> wakes and chooses whether to protect/kill.
 • On even nights the <WWW>White Werewolf</WWW> also wakes
 • <WOLF>Psychic Werewolf</WOLF> wakes and checks a player's role

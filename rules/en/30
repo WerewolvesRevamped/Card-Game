@@ -1,2 +1,19 @@
 Action Order
-The full action order.
+The full order of actions and events throughout a day, and things to watch out for when a player dies.
+<BOLD>Each day:</BOLD>
+• Victims are revealed
+• Discussion
+• Election (if applicable and not cancelled by Despot), <UA>Despot</UA> wins if elected
+• Discussion
+• <TOWN>Barber</TOWN>
+• Lynch (if not cancelled by <UA>Angel</UA>)
+• Lynch #2 (if created by <TOWN>Child</TOWN>)
+Consider <UA>Mayor</UA> and <TOWN>Stalker</TOWN> votes when counting votes!
+Consider <TOWN>Executioner</TOWN>, <WOLF>Gallant Fox</WOLF> and <UA>Angel</UA> defense when lynching!
+There may be discussion between the lynches, and the death of the first lynch occurs before the second. But there is never discussion after the final lynch.
+<BOLD>On death:</BOLD>
+• Consider <TOWN>Cleric</TOWN>, <TOWN>Hooker</TOWN>, <WOLF>Scared Werewolf</WOLF> and <WOLF>Gallant Fox</WOLF> defenses first
+• <TOWN>Huntress</TOWN>/<TOWN>Ranger</TOWN> flip their cards and immediately choose their target
+• <TOWN>Idiot</TOWN> flips their card
+• With Flips: the victims reveal their card
+• Without Flips: if a <TOWN>Child</TOWN> has died, it is revealed, but not their identity ; if the <UA>Couple</UA> has died it is revealed who the couple was, but not who has which role.

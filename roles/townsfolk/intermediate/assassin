@@ -1,6 +1,6 @@
 Name:Assassin
 Desc:The Assassin only wakes up in the second and subsequent nights. When they wake up, they may decide to attack another player. This is limited to a maximum of two attacks for the entirety of the game. It may be necessary to wake the Assassin even if they can no longer attack, to disguise who has performed certain kills.
-Card:When the Assassin wakes up, they may decide to attack another player. This is however limited to a maximum of two attacks for the entirety of the game.
+Card:Starting on the second night, the Assassin wakes up and may decide to attack another player. This is however limited to a maximum of two attacks for the entirety of the game.
 de_Name:Assassine
 de_Desc:
 de_Card:

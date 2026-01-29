@@ -1,5 +1,5 @@
 Name:Vampire
-Desc:Every night when the Vampire wakes up, they may choose a player to demonize. If a demonized player gets attacked at night, they will instead turn into an undead player and join the Vampire's team. The Vampire wins when every player is either dead or undead. The Host should be extra careful just before waking up town for the day and double check if any of the player that should die are actually demonized and will turn into an undead instead.
+Desc:Every night when the Vampire wakes up, they may choose a player to demonize. If a demonized player gets attacked at night, they will instead turn into an undead player and join the Vampire's team. The Vampire wins when every player is either dead or undead. The Host should be extra careful just before waking up town for the day and double check if any of the player that should die are actually demonized and will turn into an undead instead. It is recommended to write down who is demonized in larger games.
 Card:Every night, the Vampire may choose a player to demonize. If a demonized player gets attacked at night, they will survive and become an undead. The Vampire wins when every player is dead or undead.
 de_Name:Vampir
 de_Desc:

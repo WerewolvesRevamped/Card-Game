@@ -1,6 +1,6 @@
 Name:Idiot
-Desc:When the Idiot would die, they instead flip over their card. They may continue playing, but are no longer allowed to vote.
-Card:When the Idiot would die, they instead flip over their card. They may continue playing, but are no longer allowed to vote.
+Desc:The first time the Idiot would die, they instead flip over their card. They may continue playing, but are no longer allowed to vote.
+Card:The first time the Idiot would die, they may continue playing, but are no longer allowed to vote.
 de_Name:Dorfdepp
 de_Desc:
 de_Card:

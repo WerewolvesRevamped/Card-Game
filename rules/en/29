@@ -3,8 +3,8 @@ The full order of actions and events throughout a night.
 <BOLD>Night 1 only :</BOLD>
 • <TOWN>Bakers</TOWN>, <TOWN>Butchers</TOWN> wake
 • <TOWN>Fletcher</TOWN> selects <EXTRA>Fletcher's Customer</EXTRA>
-• UA>Cupid</UA> selects <EXTRA>Cupid's Lover</EXTRA>
-• <<UA>Thief</UA> switches role at the very end of the night
+• <UA>Cupid</UA> selects <EXTRA>Cupid's Lover</EXTRA>
+• <UA>Thief</UA> switches role at the very end of the night
 <BOLD>Night 2 only :</BOLD>
 • <TOWN>Amnesiac</TOWN> changes role
 • <WOLF>Infecting Werewolf</WOLF> selects target
@@ -25,3 +25,4 @@ The full order of actions and events throughout a night.
 • On even nights the <WWW>White Werewolf</WWW> also wakes
 
 • <WOLF>Psychic Werewolf</WOLF> wakes and checks a player's role
+

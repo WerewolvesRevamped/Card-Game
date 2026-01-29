@@ -3,8 +3,8 @@ The full order of actions and events throughout a night.
 <BOLD>Night 1 only :</BOLD>
 • <TOWN>Bakers</TOWN>, <TOWN>Butchers</TOWN> wake
 • <TOWN>Fletcher</TOWN> selects <EXTRA>Fletcher's Customer</EXTRA>
-• <UA>Thief</UA> switches role
-• <UA>Cupid</UA> selects <EXTRA>Cupid's Lover</EXTRA>
+• UA>Cupid</UA> selects <EXTRA>Cupid's Lover</EXTRA>
+• <<UA>Thief</UA> switches role at the very end of the night
 <BOLD>Night 2 only :</BOLD>
 • <TOWN>Amnesiac</TOWN> changes role
 • <WOLF>Infecting Werewolf</WOLF> selects target
@@ -23,4 +23,5 @@ The full order of actions and events throughout a night.
 • The <WOLF>Werewolves</WOLF> wake together (and receive fox info if applicable). They choose somebody to attack. If a wolf cub has died or if a striking howl has been used they choose a second time.
 • <TOWN>Witch</TOWN> wakes and chooses whether to protect/kill.
 • On even nights the <WWW>White Werewolf</WWW> also wakes
+
 • <WOLF>Psychic Werewolf</WOLF> wakes and checks a player's role

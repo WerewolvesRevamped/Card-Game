@@ -1,6 +1,7 @@
 Elections
 Elections may optionally be added to the game. If there is an election, it occurs in the middle of the day - there is discussion both before and after the election. An election is a vote that is handled the same way as the lynch. Whichever player receives the most votes is elected as the role up for election and receives the respective role card (face up). This does not affect their primary role card, or their win condition - they simply gain an additional ability. 
 Elected Roles
-If you choose to play with several elected roles, only one is elected per day, in the order listed here. If a player with an elected role dies you may choose between allowing that player to immediately pass their role to a successor or if the role should be put up for election again.
+If you choose to play with several elected roles, only one is elected per day, in the following order: Mayor, Reporter, Guardian. If a player with an elected role dies you may choose between allowing that player to immediately pass their role to a successor or if the role should be put up for election again.
 The following rule variants are recommended: No Elections/Flips (Basic), Mayor/Flips (Intermediate), Mayor, Reporter, Guardian / No Flips (Advanced).
+
 Mayor

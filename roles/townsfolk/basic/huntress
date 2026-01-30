@@ -1,5 +1,5 @@
 Name:Huntress
-Desc:When the Huntress dies, they must take another player with them to the grave. When the Huntress is announced to be dead, they must immediately point at another player that they wish to kill. The Huntress always shows their card when they die.
+Desc:When the Huntress dies, they must immediately point at another player that they wish to kill. The Huntress always shows their card when they die.
 Card:When the Huntress dies, they must take another player with them to the grave.
 de_Name:Jägerin
 de_Desc:

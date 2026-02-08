@@ -2,5 +2,5 @@ Name:Mayor
 Desc:The Mayor's vote counts as two. Before a game starts, it should be decided if a Mayor will exist in the game.
 Card:The Mayor's vote counts as two.
 de_Name:Bürgermeister
-de_Desc:
-de_Card:
+de_Desc:Die Stimme des Bürgermeisters zählt doppelt. Vor Spielbeginn sollte entschieden werden, ob es im Spiel einen Bürgermeister geben soll.
+de_Card:Die Stimme des Bürgermeisters zählt doppelt.

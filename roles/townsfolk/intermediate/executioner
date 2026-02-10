@@ -2,5 +2,5 @@ Name:Executioner
 Desc:When the Executioner gets lynched for the first time, they will not die. Instead, their card is revealed and they may point at another player who will die instead. The Executioner may choose nobody, in which case nobody is lynched.
 Card:When the Executioner gets lynched for the first time, they will not die. Instead, their card is revealed and they may point at another player who will die instead.
 de_Name:Henker
-de_Desc:
-de_Card:
+de_Desc:Wenn der Henker zum ersten Mal gelyncht wird, stirbt er nicht. Stattdessen wird seine Karte aufgedeckt und er darf auf einen anderen Spieler zeigen, der stattdessen stirbt. Der Henker kann auch niemanden wählen; in diesem Fall wird niemand gelyncht.
+de_Card:Wenn der Henker zum ersten Mal gelyncht wird, stirbt er nicht. Stattdessen wird seine Karte aufgedeckt und er darf auf einen anderen Spieler zeigen, der stattdessen stirbt.

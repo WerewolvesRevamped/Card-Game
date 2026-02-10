@@ -2,5 +2,5 @@ Name:Angel
 Desc:The Angel can only win if they're lynched during the day. The next day, nobody can be lynched unless there is a second lynch for another reason.
 Card:The Angel can only win if they're lynched during the day. The next day, one lynch is skipped.
 de_Name:Engel
-de_Desc:
-de_Card:
+de_Desc:Der Engel kann nur gewinnen, wenn er tagsüber gelyncht wird. Am nächsten Tag darf niemand gelyncht werden, außer es gibt einen zweiten Lynch.
+de_Card:Der Engel kann nur gewinnen, wenn er tagsüber gelyncht wird. Am nächsten Tag wird ein Lynch übersprungen.

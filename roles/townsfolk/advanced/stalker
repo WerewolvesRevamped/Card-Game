@@ -2,5 +2,5 @@ Name:Stalker
 Desc:When they wake up, the Stalker may select a player to assign two invisible votes against. After the lynch votes are counted the next day, that player will have two additional votes against them, but this will only be revealed if the outcome of the lynch is affected by this.
 Card:When they wake up, the Stalker may select a player to assign 2 invisible votes against. After the lynch votes are counted the next day, that player will have 2 additional votes against them.
 de_Name:Stalker
-de_Desc:
-de_Card:
+de_Desc:Der Stalker kann in der Nacht einen Spieler auswählen, gegen den er zwei unsichtbare Stimmen abgibt. Nach der Stimmauszählung am nächsten Tag, erhält dieser Spieler zwei zusätzliche Stimmen gegen sich, was jedoch nur dann bekannt gegeben wird, wenn dies Auswirkungen auf das Ergebnis hat.
+de_Card:Der Stalker kann in der Nacht einen Spieler auswählen, gegen den er zwei unsichtbare Stimmen abgibt. Nach der Stimmauszählung am nächsten Tag, erhält dieser Spieler zwei zusätzliche Stimmen gegen sich.

@@ -2,5 +2,5 @@ Name:Despot
 Desc:If the Despot becomes Mayor, the Despot will instead win the game. The game will carry on without the Despot and the next day, there will be no other election. Afterward, the Mayor will be reelected.
 Card:If the Despot becomes Mayor, the Despot will instead win the game. The game will carry on without the Despot and the next day, there will be no other election.
 de_Name:Despot
-de_Desc:
-de_Card:
+de_Desc:Wenn der Despot Bürgermeister wird, gewinnt er stattdessen sofort das Spiel. Das Spiel läuft ohne den Despoten weiter, und am nächsten Tag findet keine weitere Wahl statt. Danach wird der Bürgermeister neu gewählt.
+de_Card:Wenn der Despot Bürgermeister wird, gewinnt er sofort. Das Spiel läuft ohne ihn weiter, und am nächsten Tag gibt es keine Wahl.

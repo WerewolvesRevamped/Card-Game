@@ -1,0 +1,26 @@
+Spielreihenfolge
+Die vollständige Abfolge von Aktionen in einer Nacht.
+<BOLD>Nur Nacht 1:</BOLD>
+• <TOWN>Bäcker</TOWN>, <TOWN>Metzger</TOWN> erwachen
+• <TOWN>Pfeilmacher</TOWN> wählt <EXTRA>Kunden</EXTRA>
+• <UA>Amor</UA> wählt <EXTRA>Geliebten</EXTRA>
+• <UA>Dieb</UA> tauscht Rolle
+<BOLD>Nur Nacht 2:</BOLD>
+• <TOWN>Amnestiker</TOWN> wechselt Rolle
+• <WOLF>Urwolf</WOLF> wählt Ziel
+<BOLD>Jede Nacht:</BOLD>
+• <ELECTED>Reporter</ELECTED> erwacht und sieht die Karten der neu Verstorbenen
+• Für fortgeschrittene Spieler erwachen Gruppen des Dorfs in folgender Reihenfolge: <TOWN>Bäcker</TOWN>, <TOWN>Metzger</TOWN>
+• <TOWN>Stalker</TOWN> erwacht und wählt ein Ziel
+• <TOWN>Pfeilmacher</TOWN> erwacht und kann die Kundenfähigkeit entziehen
+• <WOLF>Leitwolf</WOLF> erwacht und kann ein Heulen einsetzen
+• <UW>Vampir</UW> erwacht und wählt einen Spieler zum Dämonisieren, die <UW>Untoten</UW> erwachen mit ihm
+• <FLUTE>Flötenspieler</FLUTE> erwacht und verzaubert, anschließend erwachen alle <EXTRA>Verzauberten</EXTRA>
+• <HELL>Teufel</HELL> erwacht und wählt einen Spieler, anschließend erwacht der <EXTRA>Deal-Empfänger</EXTRA>
+• Ermittlungsrollen erwachen in folgender Reihenfolge: <TOWN>Orakel</TOWN>, <TOWN>Auraseher</TOWN>, <TOWN>Wildhüter</TOWN>, <TOWN>Seher</TOWN>, <TOWN>Lehrling</TOWN>, <TOWN>Stadtausrufer</TOWN>,  <WOLF>Dunkelseher</WOLF>, <WOLF>Spähfuchs</WOLF>
+• Schutzrollen erwachen in folgender Reihenfolge: <TOWN>Kleriker</TOWN>, <TOWN>Verführerin</TOWN>, <WOLF>Wachfuchs</WOLF>, <UA>Koch</UA>, <ELECTED>Wächter</ELECTED>
+• Tötende Rollen erwachen in folgender Reihenfolge: <TOWN>Assassine</TOWN> (ab Nacht 2), <TOWN>Priester</TOWN>, <PYRO>Pyromant</PYRO>
+• Die <WOLF>Werwölfe</WOLF> erwachen gemeinsam (und erhalten ggf. Fuchs-Informationen). Sie wählen ein Angriffsziel. Ist ein Wolfsjunge gestorben oder wurde ein Blutheulen genutzt, wählen sie ein zweites Mal.
+• <TOWN>Hexe</TOWN> erwacht und entscheidet über Heilen/Töten.
+• In geraden Nächten erwacht zusätzlich der <WWW>Weißer Werwolf</WWW>
+• <WOLF>Seherwolf</WOLF> erwacht und überprüft die Rolle eines Spielers

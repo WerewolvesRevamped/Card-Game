@@ -8,12 +8,12 @@ Die vollständige Abfolge von Aktionen während des Tages, sowie Dinge, auf die 
 • <TOWN>Friseur</TOWN> darf sich offenbaren und angreifen
 • Lynch (falls nicht durch den <UA>Engel</UA> aufgehoben)
 • Lynch #2 (falls durch das <TOWN>Kind</TOWN> ausgelöst)
-Berücksichtigt die Stimmen von <UA>Bürgermeister</UA> und <TOWN>Stalker</TOWN> beim Auszählen!
+Berücksichtigt die Stimmen von <ELECTED>Bürgermeister</ELECTED> und <TOWN>Stalker</TOWN> beim Auszählen!
 Berücksichtigt die Verteidigungen von <TOWN>Henker</TOWN> und <WOLF>Wachfuchs</WOLF> sowie die Siegbedingung des <UA>Engel</UA> beim Lynch!
 Zwischen zwei Lynches kann diskutiert werden, und der Tod des ersten Lynches tritt vor dem zweiten ein. Nach dem letzten Lynch gibt es keine Diskussion mehr.
 <BOLD>Beim Tod:</BOLD>
-• Berücksichtigt Verwandlungen von <TOWN>Verfluchter Bürger</TOWN> und <UW>Untoten</UW>, falls der Tod nachts eintritt
 • Berücksichtigt zuerst die Verteidigungen von <TOWN>Kleriker</TOWN>, <TOWN>Verführerin</TOWN>, <TOWN>Läufer</TOWN>, <WOLF>Feiglingwolf</WOLF> und <WOLF>Wachfuchs</WOLF>, falls der Tod nachts eintritt
+• Berücksichtigt Verwandlungen von <TOWN>Verfluchter Bürger</TOWN> und <UW>Untoten</UW>, falls der Tod nachts eintritt
 • <TOWN>Jägerin</TOWN>/<TOWN>Förster</TOWN> decken ihre Karten auf und wählen sofort ein Ziel
 • <TOWN>Dorfdepp</TOWN> deckt seine Karte auf und lebt weiter
 • Mit Aufdecken: Opfer zeigen ihre Karte

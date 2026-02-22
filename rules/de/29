@@ -14,7 +14,7 @@ Die vollständige Abfolge von Aktionen in einer Nacht.
 • <TOWN>Stalker</TOWN> erwacht und wählt ein Ziel
 • <TOWN>Pfeilmacher</TOWN> erwacht und kann die Kundenfähigkeit entziehen
 • <WOLF>Leitwolf</WOLF> erwacht und kann ein Heulen einsetzen
-• <UW>Vampir</UW> erwacht und wählt einen Spieler zum Dämonisieren, die <UW>Untoten</UW> erwachen mit ihm
+• <UW>Vampir</UW> erwacht und wählt einen Spieler zum Beißen, die <UW>Untoten</UW> erwachen mit ihm
 • <FLUTE>Flötenspieler</FLUTE> erwacht und verzaubert, anschließend erwachen alle <EXTRA>Verzauberten</EXTRA>
 • <HELL>Teufel</HELL> erwacht und wählt einen Spieler, anschließend erwacht der <EXTRA>Deal-Empfänger</EXTRA>
 • Ermittlungsrollen erwachen in folgender Reihenfolge: <TOWN>Orakel</TOWN>, <TOWN>Auraseher</TOWN>, <TOWN>Wildhüter</TOWN>, <TOWN>Seher</TOWN>, <TOWN>Lehrling</TOWN>, <TOWN>Stadtausrufer</TOWN>,  <WOLF>Dunkelseher</WOLF>, <WOLF>Spähfuchs</WOLF>
@@ -22,5 +22,5 @@ Die vollständige Abfolge von Aktionen in einer Nacht.
 • Tötende Rollen erwachen in folgender Reihenfolge: <TOWN>Assassine</TOWN> (ab Nacht 2), <TOWN>Priester</TOWN>, <PYRO>Pyromant</PYRO>
 • Die <WOLF>Werwölfe</WOLF> erwachen gemeinsam (und erhalten ggf. Fuchs-Informationen). Sie wählen ein Angriffsziel. Ist ein Wolfsjunge gestorben oder wurde ein Blutheulen genutzt, wählen sie ein zweites Mal.
 • <TOWN>Hexe</TOWN> erwacht und entscheidet über Heilen/Töten.
-• In geraden Nächten erwacht zusätzlich der <WWW>Weißer Werwolf</WWW>
+• In geraden Nächten erwacht zusätzlich der <WWW>Weiße Werwolf</WWW>
 • <WOLF>Seherwolf</WOLF> erwacht und überprüft die Rolle eines Spielers

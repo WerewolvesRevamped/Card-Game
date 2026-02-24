@@ -5,6 +5,7 @@ The full order of actions and events throughout a night.
 • <TOWN>Fletcher</TOWN> selects <EXTRA>Fletcher's Customer</EXTRA>
 • <UA>Cupid</UA> selects <EXTRA>Cupid's Lover</EXTRA>
 • <UA>Thief</UA> switches role
+• <UA>Chef</UA> sees waiters
 <BOLD>Night 2 only :</BOLD>
 • <TOWN>Amnesiac</TOWN> changes role
 • <WOLF>Infecting Werewolf</WOLF> selects target

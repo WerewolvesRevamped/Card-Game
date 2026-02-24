@@ -2,5 +2,5 @@ Name:Oracle
 Desc:When the Oracle wakes up at night, they may choose two players other than themselves and compare them. If they are on the same team, the Oracle gets a thumbs up. If the players are not on the same team, the Oracle gets a thumbs down.
 Card:When the Oracle wakes up at night, they may choose two other players and compare them. If they are on the same team, the Oracle gets a thumbs up. Otherwise, the Oracle gets a thumbs down.
 de_Name:Orakel
-de_Desc:Wenn das Orakel nachts aufwacht, kann es zwei andere Spieler auswählen und sie miteinander vergleichen. Befinden sich diese Spieler im selben Team, zeigt der Spielleiter einen Daumen hoch. Befinden sich die Spieler nicht im selben Team, zeigt der Spielleiter einen Daumen runter.
-de_Card:Das Orakel kann zwei andere Spieler auswählen und sie miteinander vergleichen. Wenn sie im selben Team sind, zeigt der Spielleiter einen Daumen hoch. Andernfalls zeigt er einen Daumen runter.
+de_Desc:Wenn das Orakel nachts aufwacht, kann es zwei Spieler (bis auf sich selbst) auswählen und sie miteinander vergleichen. Befinden sich diese Spieler im selben Team, zeigt der Spielleiter einen Daumen hoch. Befinden sich die Spieler nicht im selben Team, zeigt der Spielleiter einen Daumen runter.
+de_Card:Das Orakel kann zwei verschiedene Spieler auswählen und sie miteinander vergleichen. Wenn sie im selben Team sind, zeigt der Spielleiter einen Daumen hoch. Andernfalls zeigt er einen Daumen runter.

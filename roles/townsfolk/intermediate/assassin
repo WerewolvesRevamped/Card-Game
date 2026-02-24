@@ -2,5 +2,5 @@ Name:Assassin
 Desc:The Assassin only wakes up in the second and subsequent nights. When they wake up, they may decide to attack another player. This is limited to a maximum of two attacks for the entirety of the game. It may be necessary to wake the Assassin even if they can no longer attack to disguise who has performed certain kills.
 Card:Starting on the second night, the Assassin wakes up and may decide to attack another player. This is limited to a maximum of two attacks for the entirety of the game.
 de_Name:Assassine
-de_Desc:Der Assassine erwacht in der zweiten und in allen folgenden Nächten. Er darf einen anderen Spieler angreifen, aber maximal zweimal im gesamten Spiel. Es kann notwendig sein, den Assassinen auch zu wecken, wenn er keine Angriffe mehr durchführen kann, um zu verschleiern, wer bestimmte Angriffe ausgeführt hat.
-de_Card:Ab der zweiten Nacht erwacht der Assassine und darf entscheiden, einen anderen Spieler anzugreifen. Dies ist jedoch im gesamten Spiel auf maximal zwei Angriffe begrenzt.
+de_Desc:Der Assassine erwacht in der zweiten und in allen folgenden Nächten und darf einen Spieler angreifen. Insgesamt kann er im Spiel maximal zweimal angreifen. Es kann notwendig sein, den Assassinen auch zu wecken, wenn er keine Angriffe mehr ausführen kann, um zu verschleiern, wer bestimmte Angriffe ausgeführt hat.
+de_Card:Ab der zweiten Nacht erwacht der Assassine und darf einen Spieler angreifen. Dies ist im gesamten Spiel auf maximal zwei Angriffe begrenzt.

@@ -5,7 +5,7 @@ Die vollständige Abfolge von Aktionen während des Tages, sowie Dinge, auf die 
 • Diskussion
 • Wahl (falls zutreffend und nicht durch den <UA>Despot</UA> verhindert), <UA>Despot</UA> gewinnt falls er gewählt wurde
 • Diskussion
-• <TOWN>Friseur</TOWN> darf sich offenbaren und angreifen
+• <TOWN>Barbier</TOWN> darf sich offenbaren und angreifen
 • Lynch (falls nicht durch den <UA>Engel</UA> aufgehoben)
 • Lynch #2 (falls durch das <TOWN>Kind</TOWN> ausgelöst)
 Berücksichtigt die Stimmen von <ELECTED>Bürgermeister</ELECTED> und <TOWN>Stalker</TOWN> beim Auszählen!
@@ -17,4 +17,5 @@ Zwischen zwei Lynches kann diskutiert werden, und der Tod des ersten Lynches tri
 • <TOWN>Jägerin</TOWN>/<TOWN>Förster</TOWN> decken ihre Karten auf und wählen sofort ein Ziel
 • <TOWN>Dorfdepp</TOWN> deckt seine Karte auf und lebt weiter
 • Mit Aufdecken: Opfer zeigen ihre Karte
+
 • Ohne Aufdecken: Stirbt ein <TOWN>Kind</TOWN>, wird dies bekanntgegeben, jedoch nicht seine Identität; stirbt ein <UA>Paar</UA>, wird bekanntgegeben, wer das Paar war, jedoch nicht, wer welche Rolle hatte.

@@ -2,5 +2,5 @@ Name:Ranger
 Desc:When the Ranger dies, they must immediately point at another player that they wish to reveal the role of. The Ranger and their target always show their cards when the Ranger dies.
 Card:When a Ranger dies, they must choose another player to reveal the role of.
 de_Name:Förster
-de_Desc:Sobald der Tod des Försters bekannt gegeben wird, muss er sofort auf einen anderen Spieler zeigen, dessen Karte er aufdecken möchte. Sowohl die Karte des Försters als auch die Karte des aufgedeckten Spielers werden immer dem restlichen Dorf gezeigt.
+de_Desc:Sobald der Tod des Försters bekannt gegeben wird, muss er sofort auf einen anderen Spieler zeigen, dessen Karte er aufdecken möchte. Sowohl die Karte des Försters als auch die Karte des ausgewählten Spielers werden immer dem restlichen Dorf gezeigt.
 de_Card:Wenn der Förster stirbt, muss er einen anderen Spieler wählen, dessen Rolle aufgedeckt wird.

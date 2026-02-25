@@ -3,4 +3,4 @@ Desc:Each night, the Guardian may choose someone to protect before the werewolve
 Card:The Guardian may choose someone to protect each night, but they may not protect the same player twice in a row.
 de_Name:Wächter
 de_Desc:Jede Nacht kann der Wächter einen Spieler zum Schutz auswählen, bevor die Werwölfe ihr Ziel bestimmen. Er darf jedoch denselben Spieler nicht zweimal hintereinander schützen. Wenn der gewählte Spieler angegriffen wird, überlebt er den Angriff. Vor dem Spiel sollte entschieden werden, ob ein Wächter im Spiel sein wird – der Wächter kann nur im Spiel sein, wenn sowohl der Bürgermeister als auch der Reporter im Spiel sind. Wenn es einen Wächter gibt, wird er am ersten Tag gewählt, an dem es bereits einen Bürgermeister und einen Reporter gibt, aber noch keinen Wächter.
-de_Card:Jede Nacht darf der Wächter einen Spieler schützen. Er darf jedoch nicht zweimal hintereinander denselben Spieler schützen.
+de_Card:Jede Nacht darf der Wächter einen Spieler wählen, den er schützt. Er darf jedoch nicht zweimal hintereinander denselben Spieler wählen.

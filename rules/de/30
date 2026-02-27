@@ -1,16 +1,16 @@
 Spielreihenfolge
 Die vollständige Abfolge von Aktionen während des Tages, sowie Dinge, auf die zu achten ist, wenn ein Spieler stirbt.
-<BOLD>Jeder Tag:</BOLD>
+<BOLD>Jeden Tag:</BOLD>
 • Die Verstorbenen werden bekanntgegeben
 • Diskussion
 • Wahl (falls zutreffend und nicht durch den <UA>Despot</UA> verhindert), <UA>Despot</UA> gewinnt falls er gewählt wurde
 • Diskussion
 • <TOWN>Friseur</TOWN> darf sich offenbaren und angreifen
-• Lynch (falls nicht durch den <UA>Engel</UA> aufgehoben)
-• Lynch #2 (falls durch das <TOWN>Kind</TOWN> ausgelöst)
+• Hinrichtung (falls nicht durch den <UA>Engel</UA> aufgehoben)
+• Hinrichtung #2 (falls durch das <TOWN>Kind</TOWN> ausgelöst)
 Berücksichtigt die Stimmen von <ELECTED>Bürgermeister</ELECTED> und <TOWN>Stalker</TOWN> beim Auszählen!
-Berücksichtigt die Verteidigungen von <TOWN>Henker</TOWN>, <TOWN>Dorfdepp</TOWN> und <WOLF>Wachfuchs</WOLF> sowie die Siegbedingung des <UA>Engel</UA> beim Lynch!
-Zwischen zwei Lynches kann diskutiert werden, und der Tod des ersten Lynches tritt vor dem zweiten ein. Nach dem letzten Lynch gibt es keine Diskussion mehr.
+Berücksichtigt die Verteidigungen von <TOWN>Henker</TOWN>, <TOWN>Dorfdepp</TOWN> und <WOLF>Wachfuchs</WOLF> sowie die Siegbedingung des <UA>Engel</UA> bei Hinrichtung!
+Zwischen zwei Hinrichtungen kann diskutiert werden, und der Tod des ersten Hinrichtung tritt vor dem zweiten ein. Nach der letzten Hinrichtung gibt es keine Diskussion mehr.
 <BOLD>Beim Tod:</BOLD>
 • Berücksichtigt zuerst die Verteidigungen von <TOWN>Kleriker</TOWN>, <TOWN>Verführerin</TOWN>, <TOWN>Läufer</TOWN>, <WOLF>Feiglingwolf</WOLF> und <WOLF>Wachfuchs</WOLF>, falls der Tod nachts eintritt
 • Berücksichtigt die Verwandlung des <TOWN>Verfluchten Bürgers</TOWN> und der <UW>Untoten</UW>, falls der Tod nachts eintritt

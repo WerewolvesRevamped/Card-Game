@@ -1,6 +1,6 @@
 Name:Thief
-Desc:The Thief only wakes up on the first night. They must steal the role of another player and the cards will be switched around. For the rest of the game, the Thief acts as a normal Citizen. The Thief's target should be made aware their role has changed (see Page 28).
-Card:The Thief only wakes up on the first night. They must steal the role of another player and the cards will be switched around. For the rest of the game, the Thief acts as a normal Citizen.
+Desc:The Thief only wakes up on the first night. They must steal the role of another player, whose abilities they gain, and the cards will be switched around. For the rest of the game, the new Thief acts as a normal Citizen. The new Thief should be made aware their role has changed (see Page 28).
+Card:The Thief only wakes up on the first night. They must steal the role of another player and the cards will be switched around. For the rest of the game, the new Thief acts as a normal Citizen.
 de_Name:Dieb
 de_Desc:Der Dieb wacht nur in der ersten Nacht auf. Er muss die Rolle eines anderen Spielers stehlen, woraufhin die Karten ausgetauscht werden. Für den Rest des Spiels verhält sich der Dieb wie ein normaler Dorfbewohner. Der betroffene Spieler sollte darüber informiert werden, dass sich seine Rolle geändert hat (siehe Seite 28).
 de_Card:Der Dieb wacht nur in der ersten Nacht auf. Er muss die Rolle eines anderen Spielers stehlen, woraufhin die Karten ausgetauscht werden. Für den Rest des Spiels verhält sich der Dieb wie ein normaler Dorfbewohner.

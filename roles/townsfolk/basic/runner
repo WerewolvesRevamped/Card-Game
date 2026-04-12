@@ -1,6 +1,6 @@
 Name:Runner
-Desc:The first time the Runner gets attacked by Werewolves, they will run away and won't die. If the runner is attacked by someone who's not a Werewolf, or attacked by Werewolves for a second time, they will die as usual. The Host should make sure to be aware of which player is the Runner.
-Card:The first time the Runner gets attacked by Werewolves, they will run away and won't die. If the runner is however attacked by someone who's not a Werewolf, they will die as usual.
+Desc:The first time the Runner gets attacked by Werewolves, they will run away and won't die. If the Runner is attacked by someone who's not a Werewolf, or attacked by Werewolves for a second time, they will die as usual. The Host should make sure to be aware of which player is the Runner.
+Card:The first time the Runner gets attacked by Werewolves, they will run away and won't die. If the Runner is however attacked by someone who's not a Werewolf, they will die as usual.
 de_Name:Läufer
 de_Desc:Wenn der Läufer zum ersten Mal von Werwölfen angegriffen wird, flieht er und stirbt nicht. Wird der Läufer jedoch von jemandem angegriffen, der kein Werwolf ist, stirbt er wie gewohnt. Der Spielleiter sollte stets wissen, welcher Spieler der Läufer ist.
 de_Card:Wenn der Läufer zum ersten Mal von Werwölfen angegriffen wird, flieht er und stirbt nicht. Wird er jedoch von jemandem angegriffen, der kein Werwolf ist, stirbt er wie gewohnt.

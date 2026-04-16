@@ -8,7 +8,7 @@ Die vollständige Abfolge von Aktionen in einer Nacht.
 • <UA>Koch</UA> sieht die Kellner
 <BOLD>Nur Nacht 2:</BOLD>
 • <TOWN>Amnestiker</TOWN> wechselt Rolle
-• <WOLF>Urwolf</WOLF> wählt Ziel
+• <WOLF>Urwolf</WOLF> wählt Ziel (berücksichtige <TOWN>Treuer Bürger</TOWN>)
 <BOLD>Jede Nacht:</BOLD>
 • <ELECTED>Reporter</ELECTED> erwacht und sieht die Karten der neu Verstorbenen
 • Für fortgeschrittene Spieler erwachen Gruppen des Dorfs in folgender Reihenfolge: <TOWN>Bäcker</TOWN>, <TOWN>Metzger</TOWN>
@@ -21,7 +21,7 @@ Die vollständige Abfolge von Aktionen in einer Nacht.
 • Ermittlungsrollen erwachen in folgender Reihenfolge: <TOWN>Orakel</TOWN>, <TOWN>Auraseher</TOWN>, <TOWN>Wildhüter</TOWN>, <TOWN>Seher</TOWN>, <TOWN>Lehrling</TOWN>, <TOWN>Stadtausrufer</TOWN>,  <WOLF>Dunkelseher</WOLF>, <WOLF>Spähfuchs</WOLF>
 • Schutzrollen erwachen in folgender Reihenfolge: <TOWN>Kleriker</TOWN>, <TOWN>Verführerin</TOWN>, <WOLF>Wachfuchs</WOLF>, <UA>Koch</UA>, <ELECTED>Wächter</ELECTED>
 • Tötende Rollen erwachen in folgender Reihenfolge: <TOWN>Assassine</TOWN> (ab Nacht 2), <TOWN>Priester</TOWN>, <PYRO>Pyromane</PYRO>
-• Die <WOLF>Werwölfe</WOLF> erwachen gemeinsam (und erhalten ggf. Fuchs-Informationen). Sie wählen ein Angriffsziel. Ist ein Wolfsjunge gestorben oder wurde ein Blutheulen genutzt, wählen sie ein zweites Mal.
+• Die <WOLF>Werwölfe</WOLF> erwachen gemeinsam (und erhalten ggf. Fuchs-Informationen). Sie wählen ein Angriffsziel. Ist ein <WOLF>Wolfsjunge</WOLF> gestorben oder wurde ein Blutheulen genutzt, wählen sie ein zweites Mal.
 • <TOWN>Hexe</TOWN> erwacht und entscheidet über Heilen/Töten.
 • In geraden Nächten erwacht zusätzlich der <WWW>Weiße Werwolf</WWW>
 • <WOLF>Seherwolf</WOLF> erwacht und überprüft die Rolle eines Spielers

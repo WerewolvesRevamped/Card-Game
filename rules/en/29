@@ -8,7 +8,7 @@ The full order of actions and events throughout a night.
 • <UA>Chef</UA> sees waiters
 <BOLD>Night 2 only :</BOLD>
 • <TOWN>Amnesiac</TOWN> changes role
-• <WOLF>Infecting Werewolf</WOLF> selects target
+• <WOLF>Infecting Werewolf</WOLF> selects target (consider <TOWN>Devout   Villager</TOWN>)
 <BOLD>Each night:</BOLD>
 • <ELECTED>Reporter</ELECTED> wakes and see the cards of the newly dead
 • For advanced players, town sided groups wake in the following order: <TOWN>Bakers</TOWN>, <TOWN>Butchers</TOWN>
@@ -21,7 +21,7 @@ The full order of actions and events throughout a night.
 • Investigative roles wake in the following order: <TOWN>Oracle</TOWN>, <TOWN>Aura Teller</TOWN>, <TOWN>Huntsman</TOWN>, <TOWN>Seer</TOWN>, <TOWN>Apprentice</TOWN>, <TOWN>Town Crier</TOWN>, <WOLF>Warlock</WOLF>, <WOLF>Mystic Fox</WOLF>
 • Protective roles wake in the following order: <TOWN>Cleric</TOWN>, <TOWN>Hooker</TOWN>, <WOLF>Gallant Fox</WOLF>, <UA>Chef</UA>, <ELECTED>Guardian</ELECTED>
 • Killing roles wake in the following order: <TOWN>Assassin</TOWN> (Night 2 onwards), <TOWN>Priest</TOWN>, <PYRO>Pyromancer</PYRO>
-• The <WOLF>Werewolves</WOLF> wake together (and receive fox info if applicable). They choose somebody to attack. If a wolf cub has died or if a striking howl has been used they choose a second time.
+• The <WOLF>Werewolves</WOLF> wake together (and receive fox info if applicable). They choose somebody to attack. If a <WOLF>Wolf Cub</WOLF> has died or if a striking howl has been used they choose a second time.
 • <TOWN>Witch</TOWN> wakes and chooses whether to protect/kill.
 • On even nights the <WWW>White Werewolf</WWW> also wakes
 • <WOLF>Psychic Werewolf</WOLF> wakes and checks a player's role

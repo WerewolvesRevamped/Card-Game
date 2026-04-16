@@ -3,17 +3,17 @@ The full order of actions and events throughout a day, and things to watch out f
 <BOLD>Each day:</BOLD>
 • Victims are revealed
 • Discussion
-• Election (if applicable and not cancelled by Despot), <UA>Despot</UA> wins if elected
+• Election (if applicable and not cancelled by <UA>Despot</UA>), <UA>Despot</UA> wins if elected
 • Discussion
 • <TOWN>Barber</TOWN> may reveal and attack
 • Lynch (if not cancelled by <UA>Angel</UA>)
 • Lynch #2 (if created by <TOWN>Child</TOWN>)
-Consider <ELECTED>Mayor</ELECTED> and <TOWN>Stalker</TOWN> votes when counting votes!
+Consider <ELECTED>Mayor</ELECTED>, <TOWN>Idiot</TOWN> and <TOWN>Stalker</TOWN> votes when counting votes!
 Consider <TOWN>Executioner</TOWN>, <TOWN>Idiot</TOWN> and <WOLF>Gallant Fox</WOLF> defenses and <UA>Angel</UA> win condition when lynching!
 There may be discussion between the lynches, and the death of the first lynch occurs before the second. But there is never discussion after the final lynch.
 <BOLD>On death:</BOLD>
-• Consider <TOWN>Cleric</TOWN>, <TOWN>Hooker</TOWN>, <TOWN>Runner</TOWN>, <WOLF>Scared Werewolf</WOLF> and <WOLF>Gallant Fox</WOLF> defenses first if the death happens at night
-• Consider <TOWN>Cursed Civilian</TOWN> and <UW>Undead</UW> transformations if the death happens at night
+• Consider <TOWN>Cleric</TOWN>, <TOWN>Hooker</TOWN>, <TOWN>Runner</TOWN>, <WOLF>Scared Werewolf</WOLF>, <WOLF>Gallant Fox</WOLF> and <ELECTED>Reporter</ELECTED> defenses first if the death happens at night
+• Consider <TOWN>Cursed Civilian</TOWN> and <UW>Undead</UW> transformations (consider <TOWN>Devout Villager</TOWN>) if the death happens at night
 • <TOWN>Huntress</TOWN>/<TOWN>Ranger</TOWN> flip their cards and immediately choose their target
 • <TOWN>Idiot</TOWN> flips their card and lives
 • With Flips: the victims reveal their card
